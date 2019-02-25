@@ -1,0 +1,17 @@
+target
+**/*.iml
+.idea
+!.idea/codeStyleSettings.xml
+!.idea/copyright
+!.idea/inspectionProfiles
+!.idea/fileTemplates
+.DS_Store
+.DS_Store?
+*.classpath
+*.project
+*.log
+*.prefs
+/.metadata/
+.settings/
+Servers/
+.mvn
